@@ -1,4 +1,4 @@
-# Paneer-Matter-Malai
+# Paneer Matter Malai
 
 This is my recipe named Paneer Mattar Malai.
 
