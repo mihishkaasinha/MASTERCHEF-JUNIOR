@@ -1,7 +1,10 @@
+#Ingredients
 
 For knowing the ingredients click on this link : 
 
 https://mihishkaasinha.github.io/Paneer-Mater-Malai/
+
+#Recipe
 
 This is my recipe named Paneer Mattar Malai.
 
