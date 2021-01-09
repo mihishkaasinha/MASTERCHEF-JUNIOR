@@ -1,4 +1,7 @@
-# Paneer Matter Malai
+
+For knowing the ingredients click on this link : 
+
+
 
 This is my recipe named Paneer Mattar Malai.
 
