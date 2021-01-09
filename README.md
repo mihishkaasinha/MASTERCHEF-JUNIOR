@@ -16,6 +16,8 @@ Then, once you have heated it add paneer to it.
 
 Next, mix the mixture properly until bubbles start to come on the top.
 
+Then, add cheese (if wanted)
+
 Finnaly, Congratulations!! You have created the recipe named Paneer Mattar Malai!!
 
 Have Fun eating it!!
